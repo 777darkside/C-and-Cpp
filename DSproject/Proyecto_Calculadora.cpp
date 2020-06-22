@@ -1,4 +1,4 @@
-//Calculator infix to postfix and evaluate expression 
+//Calculator infix to postfix and evaluate expression compiled on Borland C++ in win10
 #include <iostream.h>
 #include <stdio.h>
 #include <stdlib.h>
