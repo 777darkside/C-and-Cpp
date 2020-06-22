@@ -1,5 +1,4 @@
-/*
-Calculator infix to postfix and evaluate expression */
+//Calculator infix to postfix and evaluate expression 
 #include <iostream.h>
 #include <stdio.h>
 #include <stdlib.h>
